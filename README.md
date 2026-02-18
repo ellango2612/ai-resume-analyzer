@@ -21,7 +21,8 @@ An AI-powered tool that analyzes how well a resume matches a job description usi
 
 ## Demo
 
-[Live Demo](https://resume-analyzer-beta-topaz.vercel.app)
+[Live Demo](https://resume-analyzer-beta-topaz.vercel.app) \\
+
 <img src="app/images/demo.jpeg" alt="Resume Analyzer Demo" width="700"/>
 
 ## Setup
