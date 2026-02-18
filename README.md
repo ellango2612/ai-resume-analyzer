@@ -4,8 +4,8 @@ An AI-powered tool that analyzes how well a resume matches a job description usi
 
 ## Features
 
-- Upload or paste resume text
-- Paste job description
+- **Text or PDF upload** - paste resume text or upload PDF
+- **Text or link upload** - paste job description
 - Get instant AI-powered analysis:
   - Match score (1-10)
   - Identified strengths
